@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Widgets</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+</resources>
